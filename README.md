@@ -26,7 +26,3 @@ Neste projeto, o usuário pode adicionar produtos a um carrinho, visualizar o va
 - Botão para limpar todo o carrinho e reiniciar a compra.
 
 ---
-
-## 💻 Como utilizar
-
-1. Clone o repositório:
