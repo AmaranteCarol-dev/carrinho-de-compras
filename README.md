@@ -1,7 +1,7 @@
 # 🛒 Carrinho de Compras
 
 ## 📖 Sobre
-Projeto desenvolvido para praticar os conceitos de lógica de programação com **JavaScript puro**.  
+Projeto desenvolvido para praticar os conceitos de lógica de programação com **JavaScript**.  
 Neste projeto, o usuário pode adicionar produtos a um carrinho, visualizar o valor total da compra em tempo real e limpar o carrinho sempre que desejar.
 
 ---
